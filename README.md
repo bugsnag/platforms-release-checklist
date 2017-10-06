@@ -7,7 +7,7 @@ These steps should be performed when making a new release.
 - [ ] Have all the version numbers been incremented?
 - [ ] Has all new functionality been manually tested on a release build?
 - [ ] Do the installation instructions work when creating an example app from scratch?
-- [ ] Have the installation instructions been updated on the dashboard as well as the docs site?
+- [ ] Have the installation instructions been updated on the [dashboard](https://github.com/bugsnag/bugsnag-website/tree/master/app/views/dashboard/projects/install) as well as the [docs site](https://github.com/bugsnag/docs.bugsnag.com)?
 - [ ] Have all Docs PRs been merged?
 
 ## Post-release Test Checklist
